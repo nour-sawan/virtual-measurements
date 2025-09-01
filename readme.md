@@ -55,8 +55,7 @@ This project is a **Virtual Measurements** system that uses **MediaPipe** and **
 - The project was developed and tested inside a **Python virtual environment** to maintain clean dependencies.
 - Screenshots included demonstrate the detection process using a placeholder image instead of a real person.
 
-## Screenshots
-![Pose Detection](./images/img1.png)
+
 
 
 
