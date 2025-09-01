@@ -57,8 +57,8 @@ This project is a **Virtual Measurements** system that uses **MediaPipe** and **
 
 ## Screenshots
 
-**Pose Detection & Landmarks**   
-![Pose Detection](images/img1.png)
+
+
 
 
 
