@@ -56,7 +56,7 @@ This project is a **Virtual Measurements** system that uses **MediaPipe** and **
 - Screenshots included demonstrate the detection process using a placeholder image instead of a real person.
 
 ## Screenshots
-
+![Pose Detection](./images/img1.png)
 
 
 
